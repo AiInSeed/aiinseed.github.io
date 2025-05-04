@@ -38,6 +38,13 @@ body {
   position: relative;
   overflow: hidden;
 }
+.contact-hero {
+  background: linear-gradient(to bottom right, #002244, #003366);
+  min-height: 70vh;
+}
+.nav-links .active {
+  border-bottom: 2px solid #facc15;
+}
 
 .logo-bg {
   position: absolute;
